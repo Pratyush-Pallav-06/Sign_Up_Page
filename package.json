@@ -1,0 +1,20 @@
+{
+  "name": "signup_page",
+  "version": "1.0.0",
+  "description": "\"Simple SignUp_Page \"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app" 
+  },
+  "author": "Pratyush Pallav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
